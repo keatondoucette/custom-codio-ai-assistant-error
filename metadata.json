@@ -1,0 +1,8 @@
+{
+  "name": "Dal AI Coding Assistant Hint",
+  "type": "helper",
+  "properties": {
+    "user_type": "all",
+    "component": "all"
+  }
+}
